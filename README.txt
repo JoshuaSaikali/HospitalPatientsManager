@@ -1,4 +1,4 @@
-Purpose :  Manipulating records of patients and employees in a hospital. For Assignment 3.
+Purpose :  Manipulating records of patients and employees in a hospital.
 Developer Name: Joshua Saikali
 Date: November 4th 2022
 
